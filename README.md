@@ -12,7 +12,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=duggie27&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=synthwave)  
 
 
 <!---
