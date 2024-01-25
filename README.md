@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Duggie's_Github!&fontSize=80" />
 
-
+ <img src="https://img.shields.io/badge/Oracle-#F80000?style=social&logo=Oraclet&logoColor=#f80000"/>
 
 <img src="https://github.com/duggie27/duggie27/blob/output/github-contribution-grid-snake.svg"/>
 
