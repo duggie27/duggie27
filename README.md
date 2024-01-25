@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Duggie's_Github!&fontSize=80" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jim63717)](https://solved.ac/jim63717)
+
 
 <img src="https://github.com/duggie27/duggie27/blob/output/github-contribution-grid-snake.svg"/>
 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jim63717)](https://solved.ac/jim63717)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduggie27&count_bg=%233D53C8&title_bg=%23FF005C&icon=babel.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
