@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DuggieGithub!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Duggie's_Github!&fontSize=90" />
 
 <img src="https://github.com/duggie27/duggie27/blob/output/github-contribution-grid-snake.svg"/>
 
