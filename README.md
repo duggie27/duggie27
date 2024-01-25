@@ -11,6 +11,10 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=duggie27&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
+<img src="https://github.com/duggie27/duggie27/blob/output/github-contribution-grid-snake.svg"/>
+
+
 <!---
 duggie27/duggie27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
