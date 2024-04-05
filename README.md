@@ -36,9 +36,14 @@
 <hr>
 
 ## 🎉핵심 프로젝트
+<br>
+
 ##### 2024.02.23 ~ 2022.04.04
 
-![KakaoTalk_20240401_212046085](https://github.com/duggie27/duggie27/assets/157657483/1054e573-6ed0-4c8a-896a-71d54ae1a19d)
+<br>
+
+![스크린샷 2024-04-05 163827](https://github.com/duggie27/duggie27/assets/157657483/9c322b5e-1ed6-4614-a93b-654112d18573)
+
 
 
 ### 😶‍🌫️ Project Detail
