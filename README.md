@@ -43,22 +43,27 @@
 - 주제 :  건강하고(wellbeing) + 행복한(happiness) 전라남도 여행을 위한 스케줄러 프로그램!
 - 참여기간 : 2024.02.23 ~ 2022.04.04 (6주)
 
-## 기술 스택
+<br>
 
-### Front-End
+### 사용 언어
+
+#### Front-End
 - JavaScript
 - HTML/CSS
 
-### Back-End
+#### Back-End
 - Java
 - VScode
 - JavaServlet
 
-### DataBase
+#### DataBase
 - Oracle DB
 
-### UI/UX
+#### UI/UX
 - Figma
+
+#### Server 
+- Apache Tomcat
 
   
 - 주요개발 내용 : 회원가입 / 로그인 / 난이도 선택 / 문제 풀기
