@@ -37,7 +37,7 @@
 
 # My Projects 💫
 
-### #02 :: 핵심 Project < Wellness Trip Planner / 업무관리시스템 개발 ( BPS ) >
+## #02 :: 핵심 Project < Wellness Trip Planner / 업무관리시스템 개발 ( BPS ) >
 
 ### 😶‍🌫️ Project Detail
 - 주제 :  건강하고(wellbeing) + 행복한(happiness) 전라남도 여행을 위한 스케줄러 프로그램!
@@ -82,7 +82,7 @@
 
 <hr>
 
-### #01 :: Mini Project < 넌센스 퀴즈 프로그램 >
+## #01 :: Mini Project < 넌센스 퀴즈 프로그램 >
 
 
 ![mini1](https://github.com/krafjin56/krafjin56/assets/157596156/82462050-75c6-4e61-a454-ccadd9b573be)
