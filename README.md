@@ -10,16 +10,29 @@
 - 기획부터 개발까지 천천히 배워가는 과정에 있습니다.
 - 독서와일기🗺️, 그리고 배우며 복습하는 것을 좋아합니다.
 
-## Contact & Channel
-- E-mail | jim63717@gmail.com
-- Blog | https://blog.naver.com/duggie_23
-- Youtube | https://www.youtube.com/@duggieplaysguitar
-- Github | https://github.com/duggie27
+## 🌏Contact & Channel
+- E-mail : jim63717@gmail.com
+- Blog : https://blog.naver.com/duggie_23
+- Youtube : https://www.youtube.com/@duggieplaysguitar
+- Github : https://github.com/duggie27
 
 
-## Skill
+## 🪠Skill
 - Front-End | JavaScript, HTML/CSS
-- Back-End | Java, VScode, JavaServlet
+
 - DataBase | Oracle DB
-- 
-- 
+
+### Front-End
+- JavaScript
+- HTML/CSS
+
+### Back-End
+- Java
+- VScode
+- JavaServlet
+
+### DataBase
+- Oracle DB
+
+### UI/UX
+- Figma
