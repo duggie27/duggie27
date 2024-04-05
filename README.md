@@ -18,10 +18,6 @@
 
 
 ## 🪠Skill
-- Front-End | JavaScript, HTML/CSS
-
-- DataBase | Oracle DB
-
 ### Front-End
 - JavaScript
 - HTML/CSS
