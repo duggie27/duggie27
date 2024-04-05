@@ -35,11 +35,22 @@
 
 <hr>
 
-# Project❤️
+# My Projects 💫
+
+### #02 :: 핵심 Project < Wellness Trip Planner / 업무관리시스템 개발 ( BPS ) >
+
+
+
+
+
+
+
+
+
 
 <hr>
 
-### #02 :: Mini Project < 낯선 사람의 퀴즈 >
+### #01 :: Mini Project < 넌센스 퀴즈 프로그램 >
 
 
 ![mini1](https://github.com/krafjin56/krafjin56/assets/157596156/82462050-75c6-4e61-a454-ccadd9b573be)
@@ -52,7 +63,8 @@
 
 ### 문제 해결 경험
 - 개발 초기 Model, View, Controller의 정확한 역할을 잘 몰랐었던 시기. 메서드를 생성하고 불러오는 작업이 잘 이해되지 않았음.
-- Ramdom 함수의 기능을 잘 알지 못하여 중복되는 문제를 해결하려 노력했지만 , 성공하지 못함. 
+- Ramdom 함수의 기능을 잘 알지 못하여 중복되는 문제를 해결하려 노력했지만 , 성공하지 못함.
+- 오류가 생긴 부분을 찾으려 Eclipse 콘솔에 Print()함수로 하나 하나 체크하며 오류해결!
 
 
 ### <인혜팀>
