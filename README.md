@@ -50,28 +50,6 @@
 
 <br>
 
-### 사용 언어
-
-#### Front-End
-- JavaScript
-- HTML/CSS
-
-#### Back-End
-- Java
-- VScode
-- JavaServlet
-
-#### DataBase
-- Oracle DB
-
-#### UI/UX
-- Figma
-
-#### Server 
-- Apache Tomcat
-
-<br>
-
 ### 주요 개발 내용 
 - 전라남도의 지역별/키워드별 분류이후 여행을 계획함
 - 준비물 기능으로 사용자의 만족도 상승
