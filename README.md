@@ -14,4 +14,4 @@
   </ul>
 
   
-블로그 : href="https://blog.naver.com/duggie_23"
+블로그 : https://blog.naver.com/duggie_23
