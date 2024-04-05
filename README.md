@@ -37,7 +37,7 @@
 
 # My Projects 💫
 
-## #02 :: 핵심 Project < Wellness Trip Planner / 업무관리시스템 개발 ( BPS ) >
+## 🫠#02 :: 핵심 Project < Wellness Trip Planner / 업무관리시스템 개발 ( BPS ) >
 
 ![KakaoTalk_20240401_212046085](https://github.com/duggie27/duggie27/assets/157657483/1054e573-6ed0-4c8a-896a-71d54ae1a19d)
 
@@ -45,6 +45,7 @@
 ### 😶‍🌫️ Project Detail
 - 주제 :  건강하고(wellbeing) + 행복한(happiness) 전라남도 여행을 위한 스케줄러 프로그램!
 - 참여기간 : 2024.02.23 ~ 2022.04.04 (6주)
+- 수행 역할 : 디자인/산출문서작성/WBS/ppt/발표
 
 <br>
 
@@ -68,24 +69,63 @@
 #### Server 
 - Apache Tomcat
 
-  
-- 주요개발 내용 : 회원가입 / 로그인 / 난이도 선택 / 문제 풀기
+<br>
 
-### 문제 해결 경험
-- 개발 초기 Model, View, Controller의 정확한 역할을 잘 몰랐었던 시기. 메서드를 생성하고 불러오는 작업이 잘 이해되지 않았음.
-- Ramdom 함수의 기능을 잘 알지 못하여 중복되는 문제를 해결하려 노력했지만 , 성공하지 못함.
-- 오류가 생긴 부분을 찾으려 Eclipse 콘솔에 Print()함수로 하나 하나 체크하며 오류해결!
-
+### 주요 개발 내용 
+- 전라남도의 지역별/키워드별 분류이후 여행을 계획함
+- 준비물 기능으로 사용자의 만족도 상승
+- 게시판 기능으로 소통의 장 생성
 
 
+### 문제 해결 경험 
+- 드래그 앤 드롭의 잘못된 알고리즘 적용 (스왑), 이후 요소 재배치로 삭제,추가(끼워넣기)로 문제 해결
+- 게시판의 인코딩 오류 발생,  OpenSession(True)의 값을 넣지 않음
+- Figma 코드화에서의 문제 발생, 부모/자식 요소의 중요성을 깨닫음
+
+
+### 느낀 점
+- Back-End부분을 거의 하지 못해서 아쉬운 부분이 많음.
+- 디테일한 문서작성을 주로 하다보니 기획에 대한 부분, 테이블 설계방법, 유스케이스 작성 방법을 많이 배움  
 
 
 
+
+## 👨‍👩‍👦‍👦 팀원 역할
+<table>
+  <tr>
+    <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
+    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
+    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
+    <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>권창안</strong></td>
+    <td align="center"><strong>강성훈</strong></td>
+    <td align="center"><strong>고성언</strong></td>
+    <td align="center"><strong>임정민</strong></td>
+    <td align="center"><strong>임찬혁</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Crowling</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/duggie27" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+  </tr>
+</table>
 
 
 <hr>
 
-## #01 :: Mini Project < 넌센스 퀴즈 프로그램 >
+## 🫠#01 :: Mini Project < 넌센스 퀴즈 프로그램 >
 
 
 ![mini1](https://github.com/krafjin56/krafjin56/assets/157596156/82462050-75c6-4e61-a454-ccadd9b573be)
