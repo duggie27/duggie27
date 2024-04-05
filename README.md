@@ -39,7 +39,34 @@
 
 ### #02 :: 핵심 Project < Wellness Trip Planner / 업무관리시스템 개발 ( BPS ) >
 
+### 😶‍🌫️ Project Detail
+- 주제 :  건강하고(wellbeing) + 행복한(happiness) 전라남도 여행을 위한 스케줄러 프로그램!
+- 참여기간 : 2024.02.23 ~ 2022.04.04 (6주)
 
+## 기술 스택
+
+### Front-End
+- JavaScript
+- HTML/CSS
+
+### Back-End
+- Java
+- VScode
+- JavaServlet
+
+### DataBase
+- Oracle DB
+
+### UI/UX
+- Figma
+
+  
+- 주요개발 내용 : 회원가입 / 로그인 / 난이도 선택 / 문제 풀기
+
+### 문제 해결 경험
+- 개발 초기 Model, View, Controller의 정확한 역할을 잘 몰랐었던 시기. 메서드를 생성하고 불러오는 작업이 잘 이해되지 않았음.
+- Ramdom 함수의 기능을 잘 알지 못하여 중복되는 문제를 해결하려 노력했지만 , 성공하지 못함.
+- 오류가 생긴 부분을 찾으려 Eclipse 콘솔에 Print()함수로 하나 하나 체크하며 오류해결!
 
 
 
