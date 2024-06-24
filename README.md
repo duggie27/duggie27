@@ -50,7 +50,7 @@
 - 프로젝트명: 피그메이트 (PigMate)
 - 참여기간 : 2024.05.27 ~ 2024.06.20 (4주)
 - 수행 역할 : 프론트엔드 총괄, Yolov7 객체 탐지 모델 학습
-- 프로젝트 링크 : <a href="https://github.com/2023-SMHRD-KDT-AI-16/PIGMATE_repo"></a>
+- 프로젝트 링크 : https://github.com/2023-SMHRD-KDT-AI-16/PIGMATE_repo
 
 ### 주요 개발 내용 
 - 돼지 자세와 각종 환경 데이터를 기준으로 돼지의 질병을 예측한다.
