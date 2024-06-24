@@ -83,7 +83,7 @@
 <br>
 
 ![스크린샷 2024-04-05 163827](https://github.com/duggie27/duggie27/assets/157657483/9c322b5e-1ed6-4614-a93b-654112d18573)
-https://github.com/duggie27/wellnessRoad
+
 
 
 ### 😶‍🌫️ Project Detail
@@ -92,6 +92,7 @@ https://github.com/duggie27/wellnessRoad
 - 리버스엔지니어링 : BPS
 - 참여기간 : 2024.02.23 ~ 2022.04.04 (6주)
 - 수행 역할 : 디자인/크롤링/산출문서작성/WBS/ppt/발표
+- 프로젝트 링크: https://github.com/duggie27/wellnessRoad
 
 
 ### 주요 개발 내용 
